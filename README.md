@@ -1,1 +1,1 @@
-This repository contains exercises source code for Belajar Membuat Front-End Web untuk Pemula[https://www.dicoding.com/academies/315-belajar-membuat-front-end-web-untuk-pemula] course from Dicoding.
+This repository contains exercises source code for [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/academies/315-belajar-membuat-front-end-web-untuk-pemula) course from dicoding.
